@@ -19,7 +19,7 @@ During my academic journey, I have actively engaged in various projects, showcas
  - [Joker, VI.3](https://topo.portalgorski.pl/droga,12336,Joker,Abstrakcja)
 
 ### Let's connect 🔌
-Whether you are interested in collaborating, discussing potential projects, or simply networking, I would be delighted to engage in inspiring conversations. Please feel free to reach out to me via [e-mail](jozeftran@gmail.com)
+Whether you are interested in collaborating, discussing potential projects, or simply networking, I would be delighted to engage in inspiring conversations. Please feel free to reach out to me via [e-mail](mailto:jozeftran@gmail.com)
 
 <!--
 **jzftran/jzftran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
