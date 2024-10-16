@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Józef, a PhD candidate in molecular biology with a background in chemical biology and a passion for Python!
+I'm Józef, a PhD in molecular biology/bioinformatics with a passion for Python!
 
 ### Background 💭
 
-With a solid foundation in chemical biology and extensive research experience in molecular biology, I have made the decision to pivot my career towards becoming a Python developer. Currently, I am pursuing my PhD in molecular biology, where I have honed essential skills such as analytical thinking, effective communication and management, problem-solving, and meticulous attention to detail. These qualities are highly transferrable and invaluable in the world of software development.
+With a solid foundation in bioinformatics and molecular biology, I have successfully transitioned into a career as a Python developer. Having completed my PhD in molecular biology, I’ve honed essential skills like analytical thinking, problem-solving, effective communication, and attention to detail—qualities that have proven invaluable in software development.
 
 ### Projects 👷
 During my academic journey, I have actively engaged in various projects, showcasing my skills in both automation and web development for molecular biology research. Here are a couple of notable projects:
@@ -20,6 +20,7 @@ During my academic journey, I have actively engaged in various projects, showcas
 
 ### Let's connect 🔌
 Whether you are interested in collaborating, discussing potential projects, or simply networking, I would be delighted to engage in inspiring conversations. Please feel free to reach out to me via [e-mail](mailto:jozeftran@gmail.com)
+
 
 <!--
 **jzftran/jzftran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
